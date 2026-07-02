@@ -22,7 +22,7 @@ st.markdown("""
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
 /* ── PAKSA SEMUA TEKS & JUDUL UTAMA BERWARNA TERANG ── */
-html, body, .stApp, .stMarkdown, p, span, label, li, h1, h2, h3, h4, h5, h6, small, caption {
+html, body, .stApp, .stMarkdown, p, label, li, h1, h2, h3, h4, h5, h6, small, caption {
     font-family: 'Inter', sans-serif !important;
     color: #e6edf3 !important;
 }
